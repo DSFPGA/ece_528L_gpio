@@ -135,6 +135,7 @@ uint8_t Get_PMOD_SWT_Status(void)
     return switch_status;
 }
 
+
 // Modified version for Task 1
 void LED_Pattern_1(uint8_t button_status)
 {
@@ -243,6 +244,7 @@ void LED_Pattern_1(uint8_t button_status)
     }
 }
 */
+
 
 void LED_Pattern_2(void)
 {
